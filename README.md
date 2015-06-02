@@ -1,4 +1,17 @@
-## Introduction
+## Course Project 1:
+
+I have included the four R files of code that downloads, unzips, and reads the data.  The code then converts the dates to 
+R dates, filters the data, and converts the time.  Various plots are then generated based on the requirements of 
+the project.  The four plots are also included in the folder.
+
+
+
+
+
+
+
+
+### Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
